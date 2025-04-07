@@ -22,3 +22,5 @@ To revolutionize the way we vote by providing a decentralized, trustless, and tr
 
 
 ## Contract Details: 0x311d9A5E6Cd47a28aC53E8B5f5CE1360aF5797c7
+![image](https://github.com/user-attachments/assets/0f22fb43-ce24-485e-9153-3e913d2c6978)
+
